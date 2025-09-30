@@ -8,7 +8,10 @@ Running the Llama 3 70B model, even in 4-bit quantized mode, requires extremely 
 | GPU | NVIDIA A100 or H100 (multiple units may be required) |
 | VRAM | Minimum 80GB (or more, depending on system overhead) |
 | CPU RAM | At least 128GB recommended |
-Attempting to run this application on consumer-grade hardware or environments without dedicated high-VRAM GPUs will result in initialization failure due to insufficient memory.
+
+
+
+
 🚀 Getting Started
 Prerequisites
  * Python 3.8+
